@@ -1,0 +1,7 @@
+# Don't check auto-generated staff into git
+node_modules
+
+# Craft
+.DS_Store
+npm-debug.log
+package-lock.json
